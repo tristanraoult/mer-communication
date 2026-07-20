@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <rect id="Logo-entier-Réseau-MER-monochromatique-1" serif:id="Logo entier Réseau MER monochromatique 1" x="0" y="0" width="1024" height="1024" style="fill:white;fill-opacity:0;"/>
+    <g transform="matrix(1.92941,0,0,1.92941,-491.294,-471.638)">
+        <g id="Logo-entier-Réseau-MER-monochromatique-11" serif:id="Logo entier Réseau MER monochromatique 1">
+            <g>
+                <g transform="matrix(1,0,0,1,-21.6667,114.812)">
+                    <path d="M540,230L330,367.813L330,277.813L540,140L753.333,280L753.333,370L753,369.781L753,370.219L647,439.73L578.509,394.73L684.762,325L646.667,300L330,507.813L330,417.813L578.095,255L540,230Z" style="fill:rgb(1,31,38);"/>
+                </g>
+                <g transform="matrix(-1,0,0,1,1058.33,394.812)">
+                    <path d="M540,230L750,367.813L750,277.813L540,140L326.667,280L326.667,370L540,230Z" style="fill:rgb(49,73,78);"/>
+                </g>
+                <g transform="matrix(1,0,0,1,1.30751,-7.2561)">
+                    <g transform="matrix(0.426864,0,0,0.426864,-207.818,-650.274)">
+                        <circle cx="1645.95" cy="3166.93" r="40" style="fill:rgb(150,179,185);"/>
+                    </g>
+                    <g transform="matrix(0.426864,0,0,0.426864,-161.655,-650.274)">
+                        <circle cx="1645.95" cy="3166.93" r="40" style="fill:rgb(49,73,78);"/>
+                    </g>
+                    <g transform="matrix(0.426864,0,0,0.426864,-207.818,-604.111)">
+                        <circle cx="1645.95" cy="3166.93" r="40" style="fill:rgb(1,31,38);"/>
+                    </g>
+                    <g transform="matrix(0.426864,0,0,0.426864,-161.655,-604.111)">
+                        <circle cx="1645.95" cy="3166.93" r="40" style="fill:rgb(226,65,36);"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
